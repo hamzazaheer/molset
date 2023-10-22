@@ -33,6 +33,7 @@ $RECYCLE.BIN/
 # KDE directory preferences
 .directory
 ./public/.htaccess
+./app/App.php
 # Linux trash folder which might appear on any partition or disk
 .Trash-*
 
